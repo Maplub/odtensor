@@ -7,8 +7,8 @@
 
 ## Usage
 Pickle file is a Python binary file that can be read using Pandas library.
-
+```
 import pandas as pd <br>
 data = pd.read_pickle(filename)
-
+```
 [![DOI](https://zenodo.org/badge/505707457.svg)](https://zenodo.org/badge/latestdoi/505707457)
