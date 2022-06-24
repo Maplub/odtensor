@@ -2,7 +2,7 @@
 ## About the project
 
 ## Data
-The data is derived from PunPun bike sharing bicycling trips between 2018 and 2020. Data from April 17 to May 3, 2018, and from December 16, 2018, to February 23, 2019 was missing due to server's technical issues.
+The data is derived from PunPun bike sharing bicycling trips between 2018 and 2020. Data from April 17 to May 3, 2018, and from December 16, 2018, to February 23, 2019 went missing due to server's technical issues.
 1. tensor_final_core.pickle
 2. tensor_final_factors.pickle
 
