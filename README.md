@@ -3,7 +3,7 @@
 This project analyzed PunPun bicycle-sharing system before and during COVID-19 using non-negative Tucker decomposition approach. 
 
 ## Data
-The data is derived from PunPun bike sharing bicycling trips between 2018 and 2020. Data from April 17 to May 3, 2018, and from December 16, 2018, to February 23, 2019 went missing due to server's technical issues.
+The data is derived from PunPun bike sharing bicycling trips in Bangkok, Thailand between 2018 and 2020. Data from April 17 to May 3, 2018, and from December 16, 2018, to February 23, 2019 went missing due to server's technical issues.
 1. tensor_final_core.pickle
 2. tensor_final_factors.pickle
 
