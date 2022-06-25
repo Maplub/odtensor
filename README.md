@@ -6,7 +6,7 @@ This project analyzed PunPun bicycle-sharing system before and during COVID-19 u
 The data is derived from PunPun bike sharing bicycling trips in Bangkok, Thailand between 2018 and 2020. Data from April 17 to May 3, 2018, and from December 16, 2018, to February 23, 2019 went missing due to server's technical issues.
 1. KL-divergence
   - values of KL-divergence for all combinations between origin-destination modes and day modes.
-3. OD-Mode
+2. OD-Mode
   - It clarifies all of the station identifiers and their coordinates with values of origin-destination modes.
   - O_1,...,O_7 and D_1,...,D_7 --> Values of origin-destination modes after the tensor decomposition
   - O_1R,..,O_7R and D_1R,..,D_7R --> normalized values of origin-destination modes. It would represent the outstanding groups of origins and destinations each station belongs to.
