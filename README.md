@@ -15,9 +15,13 @@ The data is derived from PunPun bike sharing bicycling trips in Bangkok, Thailan
     - Data is partially missing in April and December 2018, and January and February 2019 due to technical issues. They are highlighted in red to flag the abnormalities.
 4. Time-of-day modes
     - Values represent hourly time-of-day — 3 are chosen
-5. **Tensor_final_factors.pickle**
+<br><br>
+### Files
+1. **Final_factor.xlsx**
+    - It stores the data in #1-4
+2. **Tensor_final_factors.pickle**
     - It stores the data in #2-4 as an array for being able to access by Python
-6. **Tensor_final_core.pickle**
+3. **Tensor_final_core.pickle**
     - It stores the original core tensor after the tensor decomposition.
 The analyzed and simplified core tensors are shown in Table 2.
 
